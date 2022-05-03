@@ -1,0 +1,16 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/W9K/roblox-scripts/main/DHC/SimpleSeller.lua', true))()
+
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+	Title = "Join 1542x1's Market Place!";
+	Text = "Link Copied To Your Clipboard!";
+	Duration = 5;
+	--Callback here
+	Button1 = "";
+	Button2 = "";
+
+})
+
+setclipboard("discord.gg/1542x1")
+toclipboard("discord.gg/1542x1")
