@@ -28,7 +28,8 @@ getgenv().Alts = {
     CrasherIDs = { 2208502098 }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/io5s/io5s/main/domestic_shot-haired_cat.lua"))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/W9K/roblox-scripts/main/DHC/SimpleSeller.lua', true))()
+getgenv().prefix = '.'
+loadstring(game:HttpGet('https://raw.githubusercontent.com/el0001/DHMarket/main/cutescript'))()
 
 local CoreGui = game:GetService("StarterGui")
 
