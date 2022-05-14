@@ -5,41 +5,17 @@ getgenv().Settings = {
     advertmsg = 'vouch',
 }
 getgenv().Alts = {
-    Alt1 = 2572107580,
-    Alt2 = 1822659696,
-    Alt3 = 2407146507,
-    Alt4 = 3276119182,
-    Alt5 = 244894582,
-    Alt6 = 316772282,
-    Alt7 = 244961493,
-    Alt8 = 2399983869,
-    Alt9 = 314035288,
-    Alt10 = 246179684,
-    Alt11 = 244924373,
-    Alt12 = 316774429,
-    Alt13 = 316780812,
-    Alt14 = 314054583,
-    Alt15 = 314027295,
-    Alt16 = 3466374048,
-    Alt17 = 3466375054,
-    Alt18 = 3466376422,
-    Alt19 = 3466377787,
-    Alt20 = 3466378941,
+    Alt1 = 316772282,
+    Alt2 = 314054583,
+    Alt3 = 314035288,
+    Alt4 = 2399983869,
+    Alt5 = 316774429,
+    Alt6 = 1822659696,
+    Alt7 = 316780812,
+    Alt8 = 2572107580,
+    Alt9 = 314027295,
+    Alt10 = 2407146507,
+    Alt11 = 3276119182,
     CrasherIDs = { 2208502098 }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/io5s/io5s/main/domestic_shot-haired_cat.lua"))()
-
-local CoreGui = game:GetService("StarterGui")
-
-CoreGui:SetCore("SendNotification", {
-	Title = "Join 1542x1's Market Place!";
-	Text = "Link Copied To Your Clipboard!";
-	Duration = 5;
-	--Callback here
-	Button1 = "";
-	Button2 = "";
-
-})
-
-setclipboard("discord.gg/1542x1")
-toclipboard("discord.gg/1542x1")
