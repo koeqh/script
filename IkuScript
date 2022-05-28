@@ -5,18 +5,22 @@ getgenv().Settings = {
     advertmsg = 'vouch',
 }
 getgenv().Alts = {
-    Alt1 = 316772282,
-    Alt2 = 314054583,
-    Alt3 = 314035288,
-    Alt4 = 2399983869,
-    Alt5 = 316774429,
-    Alt6 = 1822659696,
-    Alt7 = 316780812,
-    Alt8 = 2572107580,
-    Alt9 = 314027295,
-    Alt10 = 2407146507,
-    Alt11 = 3276119182,
-    CrasherIDs = { 2208502098 }
+    Alt1 = 242694124,
+    Alt2 = 267907445,
+    Alt3 = 303246173,
+    Alt4 = 331629689,
+    Alt5 = 275243976,
+    Alt6 = 295569330,
+    Alt7 = 230115013,
+    Alt8 = 258851403,
+    Alt9 = 313170142,
+    Alt10 = 247467836,
+    Alt11 = 270531990,
+    Alt12 = 3466374048,
+    Alt13 = 3466375054,
+    Alt14 = 3466376422, 
+    Alt15 = 3466378941,    
+    CrasherIDs = { 3553891817 }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/io5s/io5s/main/domestic_shot-haired_cat.lua"))()
 
