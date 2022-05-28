@@ -1,5 +1,5 @@
 getgenv().Settings = {
-    host = 2208502098,
+    host = 313484057,
     fps = 1,
     prefix = '!',
     advertmsg = 'vouch',
