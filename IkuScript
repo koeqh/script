@@ -23,27 +23,3 @@ getgenv().Alts = {
     CrasherIDs = { 3553891817 }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/io5s/io5s/main/domestic_shot-haired_cat.lua"))()
-
-
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Iku Script Loaded!",
-	Text = "Press F9 For Commands!",
-	Icon = "rbxassetid://9658979852"
-})
-print("drop")
-print("stop")
-print("cdrop (amount) / works with 100k or 1m")
-print("dropt / this is drop & customdrop combined")
-print("mask (on/off)")
-print("money (show/hide)")
-print("advert (on/off) & advertnew (string)")
-print("fps (amount)")
-print("host (spot/line/random/around) / @ host setup")
-print("setup (bank, admin, club, train)")
-print("bring (user) (bank, admin, club, train, empty 2 host)")
-print("delcash (on/off) / deletes cash on the ground")
-print("ground / puts the alts underground")
-print("dropped / tries to say how much is dropped")
-print("airlock / locks the alts in air")
-print("unlock / freezes, unfreezes")
-print("stomp (name) / stomps the user")
